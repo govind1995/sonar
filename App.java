@@ -156,6 +156,7 @@ public class App {
 		emp.setDob(dob);
 		emp.setDesignation(designation);
 		//sc.close();
+		//sc.close();
 		return emp;
 
 	}
